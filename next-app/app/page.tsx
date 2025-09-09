@@ -1,4 +1,4 @@
-import { Appbar } from "@/components/appbar";
+import { Appbar } from "@/components/header/appbar";
 import { getServerSession } from "next-auth"
 import authOption from "@/lib/googleauth";
 
